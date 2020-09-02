@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c31d3d0c2d3453fbffded1ebcac5202f",
+    "revision": "ee3e3ab527fbcf794dc53a6be6866b8b",
     "url": "/quantcast-app/index.html"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quantcast-app/precache-manifest.608c09f9d38a5a79020964273480a603.js"
+  "/quantcast-app/precache-manifest.b138d49d7bc06ee42b889bdf38581b12.js"
 );
 
 self.addEventListener('message', (event) => {
