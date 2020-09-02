@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quancast-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/quancast-app/static/js/main.bcfc153f.chunk.js",
-    "main.js.map": "/quancast-app/static/js/main.bcfc153f.chunk.js.map",
-    "runtime-main.js": "/quancast-app/static/js/runtime-main.9d1fc317.js",
-    "runtime-main.js.map": "/quancast-app/static/js/runtime-main.9d1fc317.js.map",
-    "static/js/2.68e391af.chunk.js": "/quancast-app/static/js/2.68e391af.chunk.js",
-    "static/js/2.68e391af.chunk.js.map": "/quancast-app/static/js/2.68e391af.chunk.js.map",
-    "index.html": "/quancast-app/index.html",
-    "precache-manifest.b8b9a8d98fd699cb56862b2a375f5c88.js": "/quancast-app/precache-manifest.b8b9a8d98fd699cb56862b2a375f5c88.js",
-    "service-worker.js": "/quancast-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/quancast-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.68e391af.chunk.js.LICENSE.txt": "/quancast-app/static/js/2.68e391af.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/quancast-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/quantcast-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/quantcast-app/static/js/main.a4814273.chunk.js",
+    "main.js.map": "/quantcast-app/static/js/main.a4814273.chunk.js.map",
+    "runtime-main.js": "/quantcast-app/static/js/runtime-main.df94cade.js",
+    "runtime-main.js.map": "/quantcast-app/static/js/runtime-main.df94cade.js.map",
+    "static/js/2.68e391af.chunk.js": "/quantcast-app/static/js/2.68e391af.chunk.js",
+    "static/js/2.68e391af.chunk.js.map": "/quantcast-app/static/js/2.68e391af.chunk.js.map",
+    "index.html": "/quantcast-app/index.html",
+    "precache-manifest.608c09f9d38a5a79020964273480a603.js": "/quantcast-app/precache-manifest.608c09f9d38a5a79020964273480a603.js",
+    "service-worker.js": "/quantcast-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/quantcast-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.68e391af.chunk.js.LICENSE.txt": "/quantcast-app/static/js/2.68e391af.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/quantcast-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d1fc317.js",
+    "static/js/runtime-main.df94cade.js",
     "static/js/2.68e391af.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bcfc153f.chunk.js"
+    "static/js/main.a4814273.chunk.js"
   ]
 }
